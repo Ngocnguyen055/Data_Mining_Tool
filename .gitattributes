@@ -1,0 +1,22 @@
+# Keep source and repository documentation consistent across platforms.
+*.md text eol=lf
+*.java text eol=lf
+*.ps1 text eol=lf
+*.py text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve the exact bytes of research inputs and recorded results.
+# Their SHA-256 values are part of the benchmark provenance.
+*.arff -text
+*.txt -text
+*.csv -text
+*.tsv -text
+/benchmark_weka/results/** -text
+
+# Presentation artifacts
+*.png binary
+*.docx binary
+*.pptx binary
+*.pdf binary
+*.zip binary

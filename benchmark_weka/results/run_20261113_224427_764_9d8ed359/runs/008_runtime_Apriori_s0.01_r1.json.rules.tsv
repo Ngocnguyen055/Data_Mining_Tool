@@ -1,0 +1,10 @@
+[itemDescription_other vegetables=t] ==> [itemDescription_rolls/buns=t]	1827	1646	158	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_whole milk=t]	1827	2363	222	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_other vegetables=t]	1646	1827	158	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_whole milk=t]	1646	2363	209	14963
+[itemDescription_soda=t] ==> [itemDescription_whole milk=t]	1453	2363	174	14963
+[itemDescription_whole milk=t] ==> [itemDescription_other vegetables=t]	2363	1827	222	14963
+[itemDescription_whole milk=t] ==> [itemDescription_rolls/buns=t]	2363	1646	209	14963
+[itemDescription_whole milk=t] ==> [itemDescription_soda=t]	2363	1453	174	14963
+[itemDescription_whole milk=t] ==> [itemDescription_yogurt=t]	2363	1285	167	14963
+[itemDescription_yogurt=t] ==> [itemDescription_whole milk=t]	1285	2363	167	14963

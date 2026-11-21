@@ -1,0 +1,30 @@
+=== Run information ===
+
+Scheme:       weka.associations.Apriori -N 1000 -T 0 -C 0.2 -D 0.999 -U 1.0 -M 0.001 -S -1.0 -Z -c -1
+Relation:     Groceries_dataset-weka.filters.unsupervised.attribute.OrdinalToNumeric-R2-weka.filters.unsupervised.attribute.AddExpression-Ea1*1000+a2-NBasket_ID-weka.filters.unsupervised.attribute.Remove-R1-2_denormalized-weka.filters.unsupervised.instance.Denormalize-Glast-ASum-weka.filters.unsupervised.attribute.Remove-R168
+Instances:    14963
+Attributes:   167
+              [list of attributes omitted]
+=== Associator model (full training set) ===
+
+
+Apriori
+=======
+
+Minimum support: 0 (15 instances)
+Minimum metric <confidence>: 0.2
+Number of cycles performed: 2
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 149
+
+Size of set of large itemsets L(2): 592
+
+Size of set of large itemsets L(3): 9
+
+Best rules found:
+
+  1. itemDescription_yogurt=t itemDescription_sausage=t 86 ==> itemDescription_whole milk=t 22    <conf:(0.26)> lift:(1.62) lev:(0) [8] conv:(1.11)
+  2. itemDescription_rolls/buns=t itemDescription_sausage=t 80 ==> itemDescription_whole milk=t 17    <conf:(0.21)> lift:(1.35) lev:(0) [4] conv:(1.05)
+

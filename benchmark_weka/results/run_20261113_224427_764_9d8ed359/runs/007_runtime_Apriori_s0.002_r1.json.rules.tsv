@@ -1,0 +1,219 @@
+[itemDescription_UHT-milk=t] ==> [itemDescription_other vegetables=t]	320	1827	32	14963
+[itemDescription_UHT-milk=t] ==> [itemDescription_whole milk=t]	320	2363	38	14963
+[itemDescription_beef=t] ==> [itemDescription_other vegetables=t]	508	1827	42	14963
+[itemDescription_beef=t] ==> [itemDescription_whole milk=t]	508	2363	70	14963
+[itemDescription_beef=t] ==> [itemDescription_yogurt=t]	508	1285	33	14963
+[itemDescription_berries=t] ==> [itemDescription_other vegetables=t]	326	1827	40	14963
+[itemDescription_berries=t] ==> [itemDescription_whole milk=t]	326	2363	34	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_bottled water=t]	678	908	38	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_other vegetables=t]	678	1827	70	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_rolls/buns=t]	678	1646	60	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_root vegetables=t]	678	1041	37	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_sausage=t]	678	903	50	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_soda=t]	678	1453	44	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_tropical fruit=t]	678	1014	38	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_whole milk=t]	678	2363	107	14963
+[itemDescription_bottled beer=t] ==> [itemDescription_yogurt=t]	678	1285	51	14963
+[itemDescription_bottled water=t] ==> [itemDescription_other vegetables=t]	908	1827	82	14963
+[itemDescription_bottled water=t] ==> [itemDescription_rolls/buns=t]	908	1646	70	14963
+[itemDescription_bottled water=t] ==> [itemDescription_root vegetables=t]	908	1041	52	14963
+[itemDescription_bottled water=t] ==> [itemDescription_sausage=t]	908	903	47	14963
+[itemDescription_bottled water=t] ==> [itemDescription_soda=t]	908	1453	72	14963
+[itemDescription_bottled water=t] ==> [itemDescription_tropical fruit=t]	908	1014	53	14963
+[itemDescription_bottled water=t] ==> [itemDescription_whole milk=t]	908	2363	107	14963
+[itemDescription_bottled water=t] ==> [itemDescription_yogurt=t]	908	1285	57	14963
+[itemDescription_brown bread=t] ==> [itemDescription_canned beer=t]	563	702	36	14963
+[itemDescription_brown bread=t] ==> [itemDescription_other vegetables=t]	563	1827	46	14963
+[itemDescription_brown bread=t] ==> [itemDescription_pastry=t]	563	774	30	14963
+[itemDescription_brown bread=t] ==> [itemDescription_rolls/buns=t]	563	1646	50	14963
+[itemDescription_brown bread=t] ==> [itemDescription_soda=t]	563	1453	43	14963
+[itemDescription_brown bread=t] ==> [itemDescription_whole milk=t]	563	2363	67	14963
+[itemDescription_brown bread=t] ==> [itemDescription_yogurt=t]	563	1285	35	14963
+[itemDescription_butter=t] ==> [itemDescription_other vegetables=t]	527	1827	43	14963
+[itemDescription_butter=t] ==> [itemDescription_rolls/buns=t]	527	1646	43	14963
+[itemDescription_butter=t] ==> [itemDescription_root vegetables=t]	527	1041	30	14963
+[itemDescription_butter=t] ==> [itemDescription_soda=t]	527	1453	47	14963
+[itemDescription_butter=t] ==> [itemDescription_whole milk=t]	527	2363	70	14963
+[itemDescription_butter=t] ==> [itemDescription_yogurt=t]	527	1285	33	14963
+[itemDescription_candy=t] ==> [itemDescription_whole milk=t]	215	2363	32	14963
+[itemDescription_canned beer=t] ==> [itemDescription_brown bread=t]	702	563	36	14963
+[itemDescription_canned beer=t] ==> [itemDescription_other vegetables=t]	702	1827	60	14963
+[itemDescription_canned beer=t] ==> [itemDescription_rolls/buns=t]	702	1646	63	14963
+[itemDescription_canned beer=t] ==> [itemDescription_sausage=t]	702	903	37	14963
+[itemDescription_canned beer=t] ==> [itemDescription_soda=t]	702	1453	47	14963
+[itemDescription_canned beer=t] ==> [itemDescription_tropical fruit=t]	702	1014	38	14963
+[itemDescription_canned beer=t] ==> [itemDescription_whole milk=t]	702	2363	90	14963
+[itemDescription_canned beer=t] ==> [itemDescription_yogurt=t]	702	1285	58	14963
+[itemDescription_chicken=t] ==> [itemDescription_other vegetables=t]	417	1827	33	14963
+[itemDescription_chicken=t] ==> [itemDescription_rolls/buns=t]	417	1646	43	14963
+[itemDescription_chicken=t] ==> [itemDescription_soda=t]	417	1453	32	14963
+[itemDescription_chicken=t] ==> [itemDescription_whole milk=t]	417	2363	51	14963
+[itemDescription_chocolate=t] ==> [itemDescription_rolls/buns=t]	353	1646	42	14963
+[itemDescription_chocolate=t] ==> [itemDescription_whole milk=t]	353	2363	44	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_other vegetables=t]	795	1827	72	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_rolls/buns=t]	795	1646	70	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_soda=t]	795	1453	56	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_tropical fruit=t]	795	1014	43	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_whole milk=t]	795	2363	107	14963
+[itemDescription_citrus fruit=t] ==> [itemDescription_yogurt=t]	795	1285	69	14963
+[itemDescription_coffee=t] ==> [itemDescription_other vegetables=t]	473	1827	39	14963
+[itemDescription_coffee=t] ==> [itemDescription_rolls/buns=t]	473	1646	36	14963
+[itemDescription_coffee=t] ==> [itemDescription_root vegetables=t]	473	1041	30	14963
+[itemDescription_coffee=t] ==> [itemDescription_soda=t]	473	1453	37	14963
+[itemDescription_coffee=t] ==> [itemDescription_whole milk=t]	473	2363	57	14963
+[itemDescription_coffee=t] ==> [itemDescription_yogurt=t]	473	1285	31	14963
+[itemDescription_cream cheese =t] ==> [itemDescription_other vegetables=t]	354	1827	32	14963
+[itemDescription_cream cheese =t] ==> [itemDescription_whole milk=t]	354	2363	43	14963
+[itemDescription_curd=t] ==> [itemDescription_other vegetables=t]	504	1827	53	14963
+[itemDescription_curd=t] ==> [itemDescription_rolls/buns=t]	504	1646	41	14963
+[itemDescription_curd=t] ==> [itemDescription_sausage=t]	504	903	44	14963
+[itemDescription_curd=t] ==> [itemDescription_soda=t]	504	1453	42	14963
+[itemDescription_curd=t] ==> [itemDescription_whole milk=t]	504	2363	62	14963
+[itemDescription_curd=t] ==> [itemDescription_yogurt=t]	504	1285	34	14963
+[itemDescription_dessert=t] ==> [itemDescription_other vegetables=t]	353	1827	31	14963
+[itemDescription_dessert=t] ==> [itemDescription_rolls/buns=t]	353	1646	30	14963
+[itemDescription_dessert=t] ==> [itemDescription_whole milk=t]	353	2363	36	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_bottled water=t]	555	908	32	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_other vegetables=t]	555	1827	53	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_rolls/buns=t]	555	1646	51	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_root vegetables=t]	555	1041	30	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_soda=t]	555	1453	38	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_tropical fruit=t]	555	1014	32	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_whole milk=t]	555	2363	79	14963
+[itemDescription_domestic eggs=t] ==> [itemDescription_yogurt=t]	555	1285	31	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_bottled water=t]	565	908	33	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_other vegetables=t]	565	1827	77	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_rolls/buns=t]	565	1646	55	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_root vegetables=t]	565	1041	33	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_soda=t]	565	1453	46	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_whole milk=t]	565	2363	79	14963
+[itemDescription_frankfurter=t] ==> [itemDescription_yogurt=t]	565	1285	38	14963
+[itemDescription_frozen meals=t] ==> [itemDescription_other vegetables=t]	251	1827	32	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_other vegetables=t]	419	1827	47	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_rolls/buns=t]	419	1646	41	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_root vegetables=t]	419	1041	32	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_sausage=t]	419	903	31	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_soda=t]	419	1453	30	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_whole milk=t]	419	2363	57	14963
+[itemDescription_frozen vegetables=t] ==> [itemDescription_yogurt=t]	419	1285	31	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_other vegetables=t]	509	1827	44	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_rolls/buns=t]	509	1646	56	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_soda=t]	509	1453	32	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_tropical fruit=t]	509	1014	32	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_whole milk=t]	509	2363	66	14963
+[itemDescription_fruit/vegetable juice=t] ==> [itemDescription_yogurt=t]	509	1285	33	14963
+[itemDescription_ham=t] ==> [itemDescription_whole milk=t]	256	2363	41	14963
+[itemDescription_hamburger meat=t] ==> [itemDescription_other vegetables=t]	327	1827	33	14963
+[itemDescription_hamburger meat=t] ==> [itemDescription_whole milk=t]	327	2363	46	14963
+[itemDescription_long life bakery product=t] ==> [itemDescription_whole milk=t]	268	2363	36	14963
+[itemDescription_margarine=t] ==> [itemDescription_other vegetables=t]	482	1827	48	14963
+[itemDescription_margarine=t] ==> [itemDescription_rolls/buns=t]	482	1646	45	14963
+[itemDescription_margarine=t] ==> [itemDescription_soda=t]	482	1453	39	14963
+[itemDescription_margarine=t] ==> [itemDescription_whole milk=t]	482	2363	61	14963
+[itemDescription_margarine=t] ==> [itemDescription_yogurt=t]	482	1285	32	14963
+[itemDescription_meat=t] ==> [itemDescription_other vegetables=t]	252	1827	32	14963
+[itemDescription_meat=t] ==> [itemDescription_whole milk=t]	252	2363	33	14963
+[itemDescription_napkins=t] ==> [itemDescription_other vegetables=t]	331	1827	32	14963
+[itemDescription_napkins=t] ==> [itemDescription_whole milk=t]	331	2363	36	14963
+[itemDescription_newspapers=t] ==> [itemDescription_other vegetables=t]	582	1827	55	14963
+[itemDescription_newspapers=t] ==> [itemDescription_pastry=t]	582	774	30	14963
+[itemDescription_newspapers=t] ==> [itemDescription_rolls/buns=t]	582	1646	45	14963
+[itemDescription_newspapers=t] ==> [itemDescription_root vegetables=t]	582	1041	38	14963
+[itemDescription_newspapers=t] ==> [itemDescription_soda=t]	582	1453	35	14963
+[itemDescription_newspapers=t] ==> [itemDescription_whole milk=t]	582	2363	84	14963
+[itemDescription_newspapers=t] ==> [itemDescription_yogurt=t]	582	1285	43	14963
+[itemDescription_onions=t] ==> [itemDescription_whole milk=t]	303	2363	44	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_rolls/buns=t]	1827	1646	158	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_soda=t]	1827	1453	145	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_tropical fruit=t]	1827	1014	94	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_whole milk=t]	1827	2363	222	14963
+[itemDescription_other vegetables=t] ==> [itemDescription_yogurt=t]	1827	1285	121	14963
+[itemDescription_pastry=t] ==> [itemDescription_bottled water=t]	774	908	43	14963
+[itemDescription_pastry=t] ==> [itemDescription_other vegetables=t]	774	1827	55	14963
+[itemDescription_pastry=t] ==> [itemDescription_rolls/buns=t]	774	1646	59	14963
+[itemDescription_pastry=t] ==> [itemDescription_root vegetables=t]	774	1041	43	14963
+[itemDescription_pastry=t] ==> [itemDescription_sausage=t]	774	903	48	14963
+[itemDescription_pastry=t] ==> [itemDescription_soda=t]	774	1453	61	14963
+[itemDescription_pastry=t] ==> [itemDescription_tropical fruit=t]	774	1014	42	14963
+[itemDescription_pastry=t] ==> [itemDescription_whole milk=t]	774	2363	97	14963
+[itemDescription_pastry=t] ==> [itemDescription_yogurt=t]	774	1285	54	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_other vegetables=t]	734	1827	74	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_rolls/buns=t]	734	1646	74	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_root vegetables=t]	734	1041	40	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_soda=t]	734	1453	59	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_whole milk=t]	734	2363	99	14963
+[itemDescription_pip fruit=t] ==> [itemDescription_yogurt=t]	734	1285	54	14963
+[itemDescription_pork=t] ==> [itemDescription_other vegetables=t]	555	1827	59	14963
+[itemDescription_pork=t] ==> [itemDescription_rolls/buns=t]	555	1646	51	14963
+[itemDescription_pork=t] ==> [itemDescription_soda=t]	555	1453	45	14963
+[itemDescription_pork=t] ==> [itemDescription_whole milk=t]	555	2363	75	14963
+[itemDescription_pork=t] ==> [itemDescription_yogurt=t]	555	1285	46	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_other vegetables=t]	1646	1827	158	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_root vegetables=t]	1646	1041	86	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_soda=t]	1646	1453	121	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_tropical fruit=t]	1646	1014	91	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_whole milk=t]	1646	2363	209	14963
+[itemDescription_rolls/buns=t] ==> [itemDescription_yogurt=t]	1646	1285	117	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_other vegetables=t]	1041	1827	79	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_rolls/buns=t]	1041	1646	86	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_soda=t]	1041	1453	79	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_tropical fruit=t]	1041	1014	55	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_whole milk=t]	1041	2363	113	14963
+[itemDescription_root vegetables=t] ==> [itemDescription_yogurt=t]	1041	1285	64	14963
+[itemDescription_salty snack=t] ==> [itemDescription_other vegetables=t]	281	1827	33	14963
+[itemDescription_sausage=t] ==> [itemDescription_bottled beer=t]	903	678	50	14963
+[itemDescription_sausage=t] ==> [itemDescription_bottled water=t]	903	908	47	14963
+[itemDescription_sausage=t] ==> [itemDescription_other vegetables=t]	903	1827	90	14963
+[itemDescription_sausage=t] ==> [itemDescription_pastry=t]	903	774	48	14963
+[itemDescription_sausage=t] ==> [itemDescription_rolls/buns=t]	903	1646	80	14963
+[itemDescription_sausage=t] ==> [itemDescription_root vegetables=t]	903	1041	50	14963
+[itemDescription_sausage=t] ==> [itemDescription_soda=t]	903	1453	89	14963
+[itemDescription_sausage=t] ==> [itemDescription_tropical fruit=t]	903	1014	46	14963
+[itemDescription_sausage=t] ==> [itemDescription_whole milk=t]	903	2363	134	14963
+[itemDescription_sausage=t] ==> [itemDescription_yogurt=t]	903	1285	86	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_other vegetables=t]	712	1827	74	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_rolls/buns=t]	712	1646	71	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_root vegetables=t]	712	1041	50	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_soda=t]	712	1453	66	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_tropical fruit=t]	712	1014	41	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_whole milk=t]	712	2363	95	14963
+[itemDescription_shopping bags=t] ==> [itemDescription_yogurt=t]	712	1285	53	14963
+[itemDescription_soda=t] ==> [itemDescription_other vegetables=t]	1453	1827	145	14963
+[itemDescription_soda=t] ==> [itemDescription_rolls/buns=t]	1453	1646	121	14963
+[itemDescription_soda=t] ==> [itemDescription_root vegetables=t]	1453	1041	79	14963
+[itemDescription_soda=t] ==> [itemDescription_sausage=t]	1453	903	89	14963
+[itemDescription_soda=t] ==> [itemDescription_tropical fruit=t]	1453	1014	81	14963
+[itemDescription_soda=t] ==> [itemDescription_whole milk=t]	1453	2363	174	14963
+[itemDescription_soda=t] ==> [itemDescription_yogurt=t]	1453	1285	87	14963
+[itemDescription_sugar=t] ==> [itemDescription_whole milk=t]	265	2363	37	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_bottled water=t]	1014	908	53	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_other vegetables=t]	1014	1827	94	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_rolls/buns=t]	1014	1646	91	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_root vegetables=t]	1014	1041	55	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_soda=t]	1014	1453	81	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_whole milk=t]	1014	2363	123	14963
+[itemDescription_tropical fruit=t] ==> [itemDescription_yogurt=t]	1014	1285	78	14963
+[itemDescription_waffles=t] ==> [itemDescription_whole milk=t]	277	2363	39	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_other vegetables=t]	654	1827	62	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_rolls/buns=t]	654	1646	44	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_root vegetables=t]	654	1041	37	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_soda=t]	654	1453	51	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_tropical fruit=t]	654	1014	37	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_whole milk=t]	654	2363	69	14963
+[itemDescription_whipped/sour cream=t] ==> [itemDescription_yogurt=t]	654	1285	44	14963
+[itemDescription_white bread=t] ==> [itemDescription_other vegetables=t]	359	1827	39	14963
+[itemDescription_white bread=t] ==> [itemDescription_rolls/buns=t]	359	1646	32	14963
+[itemDescription_white bread=t] ==> [itemDescription_whole milk=t]	359	2363	47	14963
+[itemDescription_whole milk=t] ==> [itemDescription_other vegetables=t]	2363	1827	222	14963
+[itemDescription_whole milk=t] ==> [itemDescription_rolls/buns=t]	2363	1646	209	14963
+[itemDescription_whole milk=t] ==> [itemDescription_sausage=t]	2363	903	134	14963
+[itemDescription_whole milk=t] ==> [itemDescription_soda=t]	2363	1453	174	14963
+[itemDescription_whole milk=t] ==> [itemDescription_tropical fruit=t]	2363	1014	123	14963
+[itemDescription_whole milk=t] ==> [itemDescription_yogurt=t]	2363	1285	167	14963
+[itemDescription_yogurt=t] ==> [itemDescription_citrus fruit=t]	1285	795	69	14963
+[itemDescription_yogurt=t] ==> [itemDescription_other vegetables=t]	1285	1827	121	14963
+[itemDescription_yogurt=t] ==> [itemDescription_rolls/buns=t]	1285	1646	117	14963
+[itemDescription_yogurt=t] ==> [itemDescription_sausage=t]	1285	903	86	14963
+[itemDescription_yogurt=t] ==> [itemDescription_soda=t]	1285	1453	87	14963
+[itemDescription_yogurt=t] ==> [itemDescription_tropical fruit=t]	1285	1014	78	14963
+[itemDescription_yogurt=t] ==> [itemDescription_whole milk=t]	1285	2363	167	14963

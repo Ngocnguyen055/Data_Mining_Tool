@@ -1,0 +1,67 @@
+[
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Confidence_0.1.txt",
+        "length":  18296,
+        "sha256":  "F410D724A2825A5229D0BE0B4479D45538736975B3768EAA29A2E3B765BDCD6A"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Confidence_0.2.txt",
+        "length":  1174,
+        "sha256":  "16B374DC3E0B21660F9B3A86E281FE88BAD4080630655D6DBFC10D15C713EF51"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Support_0.001.txt",
+        "length":  59676,
+        "sha256":  "729D25A7F55D1611157CF647B37397EB8D87A63A08DA456850B6EA0ACA950EBA"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Support_0.002.txt",
+        "length":  29273,
+        "sha256":  "9EAFD96289297B2166254FADE1947BA6251E33AF87E94FD7331332A453B6A0FB"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Support_0.005.txt",
+        "length":  13584,
+        "sha256":  "8415CF3C63D0B37ED6A6194B6A79BE6BBD2EDDEDB295D903FA855357CC26FDC7"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\Apriori_Support_0.01.txt",
+        "length":  4647,
+        "sha256":  "E96DDAC90C20116A4DDF06339D434FC42E0A7E8DBE2527C70E14F50F10D04E97"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\FPGrowth_Confidence_0.1.txt",
+        "length":  18079,
+        "sha256":  "A726305CB9AEBF5E7664F8780408A894F4CFA2279DBEF1A4BDC41FCCC851B4A3"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\FPGrowth_Support_0.001.txt",
+        "length":  59742,
+        "sha256":  "00737EF6B4CEEFE87BCE1D1E4A72F6521B8797AE46D7518E1C87B21B70A4B189"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\FPGrowth_Support_0.002.txt",
+        "length":  29063,
+        "sha256":  "AA1F2804077628115A1734BD0BDC1EC1DB86F9B722AD164B3DD4080CEAD50C31"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\FPGrowth_Support_0.005.txt",
+        "length":  7996,
+        "sha256":  "B44F6CD2439FA9FBA11B698EA2E17A9E9D61A8A2634BA7B762C2D313707DDB12"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\FPGrowth_Support_0.01.txt",
+        "length":  1914,
+        "sha256":  "3CF5224D66FD36C2DCB0DF128BCD5CDCF781034C2FBC3B60403774C5AF9E37B2"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\groceries_basket.arff",
+        "length":  5020650,
+        "sha256":  "69D2CA2626095B970FD4D63FB9888358EE4D1F127B9A558E617CC4ECF218DB18"
+    },
+    {
+        "path":  "C:\\Projects\\Data_Mining_Tool\\groceries_sorted.arff",
+        "length":  1181198,
+        "sha256":  "4646DAC849CFB370AC1C395146D928664CFA8AA7B94790A9A6932DDEF908B93F"
+    }
+]

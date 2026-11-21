@@ -1,0 +1,46 @@
+# Machine-local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/.aws/
+/.codex/
+/.agents/
+/.github-prep-local/
+
+# IDE, OS and Office temporary files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+
+# Compiled Java and locally installed libraries
+*.class
+*.jar
+**/classes/
+**/smoke_classes/
+/benchmark_weka/smoke_*
+
+# Benchmark logs and process handshakes are local diagnostics
+*.log
+*.ready
+*.go
+*.complete
+*.release
+**/weka_home/
+
+# Keep the verified reference experiment; opt in other runs explicitly
+/benchmark_weka/results/*
+!/benchmark_weka/results/run_20261113_224427_764_9d8ed359/
+
+# Document QA and intermediate data; final Word/PNG/ZIP files stay included
+/presentation_tables/_build/
+__pycache__/
+*.py[cod]
+/.venv/
+/venv/

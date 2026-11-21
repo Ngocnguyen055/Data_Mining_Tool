@@ -1,0 +1,22 @@
+=== Run information ===
+
+Scheme:       weka.associations.FPGrowth -P 2 -I -1 -N 10 -T 0 -C 0.05 -D 0.05 -U 1.0 -M 0.01 -S
+Relation:     Groceries_dataset-weka.filters.unsupervised.attribute.OrdinalToNumeric-R2-weka.filters.unsupervised.attribute.AddExpression-Ea1*1000+a2-NBasket_ID-weka.filters.unsupervised.attribute.Remove-R1-2_denormalized-weka.filters.unsupervised.instance.Denormalize-Glast-ASum-weka.filters.unsupervised.attribute.Remove-R168
+Instances:    14963
+Attributes:   167
+              [list of attributes omitted]
+=== Associator model (full training set) ===
+
+FPGrowth found 10 rules
+
+ 1. [itemDescription_yogurt=t]: 1285 ==> [itemDescription_whole milk=t]: 167   <conf:(0.13)> lift:(0.82) lev:(-0) conv:(0.97) 
+ 2. [itemDescription_rolls/buns=t]: 1646 ==> [itemDescription_whole milk=t]: 209   <conf:(0.13)> lift:(0.8) lev:(-0) conv:(0.96) 
+ 3. [itemDescription_other vegetables=t]: 1827 ==> [itemDescription_whole milk=t]: 222   <conf:(0.12)> lift:(0.77) lev:(-0) conv:(0.96) 
+ 4. [itemDescription_soda=t]: 1453 ==> [itemDescription_whole milk=t]: 174   <conf:(0.12)> lift:(0.76) lev:(-0) conv:(0.96) 
+ 5. [itemDescription_rolls/buns=t]: 1646 ==> [itemDescription_other vegetables=t]: 158   <conf:(0.1)> lift:(0.79) lev:(-0) conv:(0.97) 
+ 6. [itemDescription_whole milk=t]: 2363 ==> [itemDescription_other vegetables=t]: 222   <conf:(0.09)> lift:(0.77) lev:(-0) conv:(0.97) 
+ 7. [itemDescription_whole milk=t]: 2363 ==> [itemDescription_rolls/buns=t]: 209   <conf:(0.09)> lift:(0.8) lev:(-0) conv:(0.98) 
+ 8. [itemDescription_other vegetables=t]: 1827 ==> [itemDescription_rolls/buns=t]: 158   <conf:(0.09)> lift:(0.79) lev:(-0) conv:(0.97) 
+ 9. [itemDescription_whole milk=t]: 2363 ==> [itemDescription_soda=t]: 174   <conf:(0.07)> lift:(0.76) lev:(-0) conv:(0.97) 
+10. [itemDescription_whole milk=t]: 2363 ==> [itemDescription_yogurt=t]: 167   <conf:(0.07)> lift:(0.82) lev:(-0) conv:(0.98) 
+
